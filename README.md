@@ -10,3 +10,5 @@ Projekty te zostały stworzone w celu rozwiązania zadań, niemniej jednak w pew
 /source.c - aplikacja stworzona w c mająca na celu umożliwianie operacji na trójwymiarowej strukturze danych
 
 /main.cpp - aplikacja stworzona w obiektowym c++ mająca na celu obsługiwanie walk gladiaiatorów
+
+/Projekt - projekt bazy danych serwisu naprawczego samochodów
