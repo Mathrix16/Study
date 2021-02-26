@@ -7,7 +7,7 @@ Projekty te zostały stworzone w celu rozwiązania zadań, niemniej jednak w pew
 
 /onp_inf - aplikacja stworzona w javie do konwersji wyrażeń z ONP<->INF
 
-/source.c - aplikacja stworzona w c mająca na celu umożliwianie operacji na trójwymiarowej strukturze danych
+/source.c - aplikacja stworzona w c mająca na celu umożliwianie operacji na dwuwymiarowej strukturze danych
 
 /main.cpp - aplikacja stworzona w obiektowym c++ mająca na celu obsługiwanie walk gladiaiatorów
 
